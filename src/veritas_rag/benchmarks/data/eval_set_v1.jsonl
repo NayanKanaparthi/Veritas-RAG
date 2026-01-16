@@ -1,0 +1,3 @@
+{"query_id": "q001", "query_text": "What is the main topic?", "relevant_items": [{"doc_uid": "doc1uid", "relevant_quote": "The main topic is machine learning", "relevance_score": 1}], "category": "exact-phrase", "relevant_chunk_ids": []}
+{"query_id": "q002", "query_text": "Who wrote this document?", "relevant_items": [{"source_path": "documents/test.txt", "offset_start": 0, "offset_end": 50, "relevance_score": 1}], "category": "entity-heavy", "relevant_chunk_ids": []}
+{"query_id": "q003", "query_text": "Explain the key concepts", "relevant_items": [{"doc_uid": "doc1uid", "doc_id": "doc1v1", "relevant_quote": "Key concepts include algorithms and data structures", "relevance_score": 1}], "category": "paraphrase", "relevant_chunk_ids": []}
